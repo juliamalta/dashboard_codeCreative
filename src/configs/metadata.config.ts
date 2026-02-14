@@ -1,5 +1,5 @@
 export const metadataConfig = {
-    title: 'Code Creative | Plantaforma ADM',
+    title: 'Code Creative | Plataforma ADM',
     description:
         'Criamos experiências digitais que transformam visitantes em clientes. Design sofisticado + tecnologia avançada para marcas que querem se destacar. Fale conosco!.',
     openGraph: {
