@@ -43,7 +43,7 @@ export default function SideBarNavigation() {
                     <div className="flex flex-col gap-4">
                         <div className="flex items-center gap-2">
                             <img src={logo.src} width={18} />
-                            <SidebarGroupLabel className="text-base font-bold text-white">
+                            <SidebarGroupLabel className="text-lg font-bold text-white">
                                 Code Creative
                             </SidebarGroupLabel>
                         </div>
